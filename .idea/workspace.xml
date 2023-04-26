@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cab625e-f42c-48dd-8b11-c8c5b0b993dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task7/ArrayDataException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task7/ArraySizeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task7/ArrayValueCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Task7/doCalc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Task8/Participant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task8/Participant.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
