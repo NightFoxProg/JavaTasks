@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cab625e-f42c-48dd-8b11-c8c5b0b993dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task13/FileData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task13/FileNavigator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task14/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
       <recent name="Task7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CoffeeOrderBoard">
+  <component name="RunManager" selected="Application.Product">
     <configuration name="ArrayToListConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task11.ArrayToListConverter" />
       <module name="JavaTasks" />
@@ -69,19 +67,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Task13.coffee.order.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Entry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task12.Phonebook.Entry" />
-      <module name="JavaTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task12.Phonebook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Product" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task14.Product" />
+      <module name="JavaTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Product" />
         <item itemvalue="Application.CoffeeOrderBoard" />
         <item itemvalue="Application.FileNavigator" />
         <item itemvalue="Application.ArrayToListConverter" />
         <item itemvalue="Application.FileLoggerConfigurationLoader" />
-        <item itemvalue="Application.Entry" />
       </list>
     </recent_temporary>
   </component>
